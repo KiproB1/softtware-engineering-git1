@@ -1,2 +1,4 @@
 # softtware-engineering-git1
-git repository
+git account
+git repository project1
+
